@@ -1,7 +1,6 @@
 # ansible-junos-evpn-vxlan
-Group of Ansible playbooks to generate IP Fabric + EVPN configuration.
-For use in a private cloud DC in conjunction with Contrail Networking.  
-Fabric design and use cases are covered in design.ppt
+Group of Ansible playbooks to generate IP Fabric eBGP configuration.
+
 
 ## Package Dependencies
 **python**: Python 2.7.5  
